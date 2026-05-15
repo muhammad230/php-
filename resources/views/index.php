@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>this is my first PHP code</h1>
+    <?php
+        echo "Hello World";
+    ?>
 </body>
 </htmlcomposer 
