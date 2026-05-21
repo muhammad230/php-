@@ -1,1 +1,39 @@
+body {
+  background-color: #051026;
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
 
+/* Header here */
+header {
+  background: #fff;
+  border-radius: 15px;
+  margin: 20px 100px 0px 120px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 70px;
+}
+.navbar h1 {
+  color: #051026;
+}
+
+.navbar li {
+  display: inline-block;
+  color: #051026;
+  margin: 0 20px;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #051026;
+
+  &:hover {
+    color: rgb(49, 204, 204);
+  }
+}
