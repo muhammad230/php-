@@ -1,7 +1,7 @@
  <header>
         <nav class="navbar">
             <div>
-                <h1>fallow</h1>
+                <h1>worklet</h1>
             </div>
             <div class="nav-links">
                 <ul>
